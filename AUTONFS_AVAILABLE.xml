@@ -1,0 +1,15 @@
+<addon>
+  <name>AUTONFS</name>
+  <friendly_name>autonfs</friendly_name>
+  <version>1.1</version>
+  <author></author>
+  <description>
+    <en-us>
+      <![CDATA[]]>
+    </en-us>
+  </description>
+  <detail_url></detail_url>
+  <download_url></download_url>
+  <icon></icon>
+  <min_raidiator_version></min_raidiator_version>
+</addon>
